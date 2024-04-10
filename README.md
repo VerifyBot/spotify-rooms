@@ -4,8 +4,8 @@ A multiplayer app that allows users to move between rooms and listen to music to
 Every room has its own queue and anyone can add songs to it.
 
 > [!NOTE]  
-> The UI was with [`❤️ Flet`](https://flet.dev/) <br>
-> I Also used [`🎵 Spotipy`](https://spotipy.readthedocs.io/) (spotify api) and [`🐍 Pygame`](https://www.pygame.org/) (audio)
+> The UI was made with [`❤️ Flet`](https://flet.dev/) <br>
+> I also used [`🎵 Spotipy`](https://spotipy.readthedocs.io/) (spotify api) and [`🐍 Pygame`](https://www.pygame.org/) (audio)
 
 ---
 
