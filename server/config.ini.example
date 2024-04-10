@@ -1,0 +1,15 @@
+[socket]
+ip = 0.0.0.0
+port = 1234
+
+[protocol]
+length_header_size = 4
+length_sender = 1
+length_type = 1
+length_route = 4
+
+[spotify]
+client_id=
+client_secret=
+scope=user-library-read playlist-modify-private playlist-modify-public
+redirect_uri=http://localhost:4832/callback
